@@ -1,0 +1,23 @@
+# robots.txt for AppGenius AI
+# https://www.robotstxt.org/robotstxt.html
+
+User-agent: *
+Allow: /
+Allow: /privacy
+Allow: /terms
+Allow: /about
+Allow: /contact
+
+# Sitemap
+Sitemap: https://019e611d-59b9-765c-b018-a26a2e370a85.arena.site/sitemap.xml
+
+# Block crawling of internal pages
+Disallow: /api/
+Disallow: /*?*share=
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Google AdSense
+User-agent: Mediapartners-Google
+Allow: /

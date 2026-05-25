@@ -1,0 +1,11 @@
+# Google AdSense ads.txt
+# Replace ca-pub-XXXXXXXXXXXXXXXX with your actual AdSense Publisher ID
+# After getting your Publisher ID from Google AdSense, update this file
+
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+
+# How to get your Publisher ID:
+# 1. Sign in to Google AdSense
+# 2. Go to Account > Settings > Account information
+# 3. Copy your Publisher ID (starts with "pub-")
+# 4. Replace "pub-0000000000000000" above with your actual ID
